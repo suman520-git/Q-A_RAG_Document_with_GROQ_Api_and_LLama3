@@ -31,3 +31,7 @@ pytube
 numexpr
 huggingface_hub
 streamlit
+langchain_chroma
+langchain_groq
+langchain_huggingface
+sentence-transformers
